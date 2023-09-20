@@ -14,8 +14,6 @@ signed main(){
     for(auto&i : v) cin>>i;
 
     sort(v.begin(),v.end());
-    //cout<<'\n';
-    //for(auto&i : v) cout<<i<<' ';
 
     int ans = 0, tmp=v.at(0);
     for(int i=1;i<n;i++){
@@ -28,5 +26,5 @@ signed main(){
         }
     }    
 
-    cout<<'\n'<<ans;
+    cout<<ans;
 }
