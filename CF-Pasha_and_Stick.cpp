@@ -1,4 +1,5 @@
 //2023-09-20 23:49:37
+//https://codeforces.com/problemset/problem/610/A
 #include<bits/stdc++.h>
 #define int long long
 using namespace std;

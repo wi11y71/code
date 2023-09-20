@@ -27,4 +27,6 @@ signed main(){
     }    
 
     cout<<ans;
+    cout<<'\n'<<ans;
+    cout<<ans;
 }
