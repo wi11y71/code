@@ -31,7 +31,7 @@ signed main(){
             ans.at(0).second++;
         }
     }
-    //cout<<ans.at(0).first<<' '<<ans.at(0).second;return 2;
+
 
     for(int i=1;i<n;i++){
         
